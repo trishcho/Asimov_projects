@@ -1,0 +1,1 @@
+Regression is a technique in which one tries to figure out the relationship between a target variable and more than one input variable(s) and use the relationship to predict outcomes
